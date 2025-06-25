@@ -52,17 +52,3 @@ python executor.py
 
 
 Follow the prompts to input numbers, the system will use MCP to get the operation context.
-
-## Project Structure
-
-single_agent_calc/
-├── tools/
-│ └── math_tool.py
-├── agent.py
-├── workflow.py
-├── executor.py
-├── requirements.txt
-├── mcp_server/
-│ └── server.py
-├── .gitignore
-└── README.md
